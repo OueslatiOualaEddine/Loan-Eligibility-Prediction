@@ -20,6 +20,13 @@ The primary objective of this project is to simplify the loan approval process. 
 - **Risk Management**: Reduces risk for lending institutions by helping them make informed decisions.
 - **Data-Driven Decision Making**: Uses historical data to support consistent and accurate assessments.
 
+## Technologies Used
+- **Python**: Primary programming language used for data handling, processing, and model building.
+- **Pandas**: For data manipulation and cleaning, allowing structured handling of the applicant dataset.
+- **NumPy**: Provides numerical operations for efficient data processing.
+- **Scikit-Learn**: Includes the Support Vector Machine (SVM) model used for classification and accuracy evaluation.
+- **Seaborn/Matplotlib**: Visualization libraries used to create informative graphs and plots, aiding in the analysis of applicant attributes and loan eligibility.
+
 ## Potential Applications
 This project is valuable for any financial institution seeking to optimize its loan approval processes. By automating parts of the eligibility assessment, banks and lenders can serve more applicants in less time and with greater consistency. 
 
